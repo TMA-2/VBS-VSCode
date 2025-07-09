@@ -1,66 +1,66 @@
 {
   "ByRef": {
-    "documentation": ""
+    "documentation": "Indicates that an argument is passed by reference to a procedure."
   },
   "ByVal": {
-    "documentation": ""
+    "documentation": "Indicates that an argument is passed by value to a procedure."
   },
   "Call": {
     "documentation": "Transfers control to a Sub procedure or Function procedure"
   },
   "Class": {
-    "documentation": ""
+    "documentation": "Declares the name of a class, as well as a definition of the variables, properties, and methods that comprise the class."
   },
   "Const": {
-    "documentation": ""
+    "documentation": "Declares constants for use in place of literal values."
   },
   "Dim": {
-    "documentation": ""
+    "documentation": "Declares variables and allocates storage space."
   },
   "Do": {
-    "documentation": ""
+    "documentation": "Repeats a block of statements while a condition is True or until a condition becomes True."
   },
   "Each": {
-    "documentation": ""
+    "documentation": "Used with For to iterate through the elements of an array or collection."
   },
   "Else": {
-    "documentation": ""
+    "documentation": "Introduces a group of statements to be executed if the condition in an If statement is False."
   },
   "End": {
-    "documentation": ""
+    "documentation": "Ends a procedure or block."
   },
   "Erase": {
-    "documentation": ""
+    "documentation": "Reinitializes the elements of fixed-size arrays and releases dynamic array storage space."
   },
   "Execute": {
-    "documentation": ""
+    "documentation": "Executes one or more specified statements."
   },
   "ExecuteGlobal": {
-    "documentation": ""
+    "documentation": "Executes one or more specified statements in the global namespace of the script."
   },
   "Exit": {
-    "documentation": ""
+    "documentation": "Exits a block of Do...Loop, For...Next, Function, or Sub code."
   },
   "For": {
-    "documentation": ""
+    "documentation": "Repeats a group of statements a specified number of times."
   },
   "Function": {
-    "documentation": ""
+    "documentation": "Declares the name, arguments, and code that form the body of a Function procedure."
   },
   "If": {
-    "documentation": ""
+    "documentation": "Conditionally executes a group of statements, depending on the value of an expression."
   },
   "In": {
-    "documentation": ""
+    "documentation": "Used with For Each to iterate through the elements of an array or collection."
   },
   "Loop": {
-    "documentation": ""
+    "documentation": "Marks the end of a Do...Loop statement block."
   },
   "New": {
-    "documentation": ""
+    "documentation": "Creates a new instance of an object."
   },
   "Next": {
-    "documentation": ""
+    "documentation": "Marks the end of a For...Next statement block."
   },
   "Option Explicit": {
     "documentation": "Used at script level to force explicit declaration of all variables in that script."
@@ -72,10 +72,10 @@
     "documentation": "Disables any enabled error handler in the current procedure."
   },
   "Redim Preserve": {
-    "documentation": ""
+    "documentation": "Reallocates storage space for a dynamic array variable while preserving the existing data."
   },
   "Property": {
-    "documentation": ""
+    "documentation": "Declares the name of a property and the property procedures used to store and retrieve its value."
   },
   "Property Get": {
     "documentation": "Property procedure, which gets the value of a property."
@@ -87,10 +87,10 @@
     "documentation": "Property procedure, which sets a reference to an object."
   },
   "Private": {
-    "documentation": ""
+    "documentation": "Declares private variables or procedures that are accessible only to the script where they are declared."
   },
   "Public": {
-    "documentation": ""
+    "documentation": "Declares public variables or procedures that are accessible to all other procedures in all scripts."
   },
   "Randomize": {
     "documentation": "Initializes the random-number generator."
@@ -99,36 +99,36 @@
     "documentation": "Used at the procedure level to reallocate storage space for dynamic array variables."
   },
   "Rem": {
-    "documentation": ""
+    "documentation": "Indicates that the following text is a comment (remark) in the script."
   },
   "Select Case": {
-    "documentation": ""
+    "documentation": "Executes one of several groups of statements, depending on the value of an expression."
   },
   "Stop": {
-    "documentation": ""
+    "documentation": "Suspends execution of the script."
   },
   "Step": {
     "documentation": "Amount counter is changed each time through the loop. If not specified, step defaults to one."
   },
   "Sub": {
-    "documentation": ""
+    "documentation": "Declares the name, arguments, and code that form the body of a Sub procedure."
   },
   "Then": {
-    "documentation": ""
+    "documentation": "Introduces a statement block to be executed if a condition in an If statement is True."
   },
   "To": {
-    "documentation": ""
+    "documentation": "Separates the beginning and ending values of a loop counter or array indices."
   },
   "Until": {
-    "documentation": ""
+    "documentation": "Specifies that the loop should continue until the condition becomes True."
   },
   "Wend": {
-    "documentation": ""
+    "documentation": "Marks the end of a While...Wend statement block."
   },
   "While": {
-    "documentation": ""
+    "documentation": "Executes a series of statements as long as a given condition is True."
   },
   "With": {
-    "documentation": ""
+    "documentation": "Executes a series of statements on a single object or user-defined type."
   }
 }

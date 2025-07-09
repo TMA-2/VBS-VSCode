@@ -3,7 +3,7 @@
         "documentation": "Performs a logical conjunction on two expressions."
     },
     "Eqv": {
-        "documentation": ""
+        "documentation": "Performs a logical equivalence on two expressions."
     },
     "Imp": {
         "documentation": "undocumented Used to perform a logical implication on two expressions."

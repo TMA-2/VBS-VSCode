@@ -1,7 +1,7 @@
 # VBScript Extension für Visual Studio Code
 Diese Erweiterung bietet Sprachunterstützung für Visual Basic Script/VBScript/VBS für [Visual Studio Code](https://code.visualstudio.com/).
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/serpen.vbsvscode.svg)](https://marketplace.visualstudio.com/items?itemName=serpen.vbsvscode)
+[![Version](https://Serpen.gallerycdn.vsassets.io/extensions/serpen/vbsvscode/1.2.1/1620233782061/Microsoft.VisualStudio.Services.Icons.Default)](https://marketplace.visualstudio.com/items?itemName=serpen.vbsvscode)
 [![Build status](https://ci.appveyor.com/api/projects/status/0i0hrbt657y8geef?svg=true)](https://ci.appveyor.com/project/Serpen/vbs-vscode)
 
 <p align="center">
